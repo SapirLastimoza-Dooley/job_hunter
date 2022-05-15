@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "job-hunter-data",
-  "private_key_id": "2b8d391238ae7cdadb0331fc68d00c0bccd43790",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLNYA5fLAH3BO8\nX+Mp/FQX4zEufRCaehwOSv39rkU6W5soOaAV1xMgQWfRacYmYDcKPQR9Cg3hjrwj\numaPZXd181i5Qcbu1c1eGgtgj9ljEbkaXLkzt7VBOkoMCV8g96eKtsHiTMgs75Ny\nsLIjUpPVq6VnK11sdwRdMB0QQah5h9R0YtWyvYBOHl7GtZOiYmnk5rEQLz9h6Y2b\nsecjM/VuHUe3UWILMHFh61GKSEGoN2xYagRwxzr3q/O80Qjj+zbuJPRJY6221/CL\n9YJEUc/NSJ+eHS6EX9QmEwxDQY0YoP5nhNEsf4XjwdMA4sLEO9LNQcDzZSWNOINb\n0pjGsyIFAgMBAAECggEACVsn1QqboiDudU3/LIaNowAIAYHc/c+QgdK/I1pKbij9\n/UQc4vA46YVmft1HDgk6vxtpaSX7LNpfrAm5HuYePfUu/18mXvhLpzQaPlEstnXY\nelHFDhlzZdY5vSQGxWZ1Ajj/lZVngW2l+/gC4PuJ0rszO1iKHOIa5FB5g5WGHIol\nHtqxEN9RFMnLJN43MRYst2/7tLjf9RwBnPWmGs6cMNYbeZg0bytrBgNvGphV2JEH\nxmo78TMLRVnzTSEL1N2ZgSE+aJTf5vbmqU6xdO6/+yG/MIcXIlCBxpQJHfIkUe+N\nvd/XbO9hb+yhXHZvfpxqqovio/9bAcfgYk6TGnQW+QKBgQDDwWC1fQ4WdTrx+CIQ\niz8L8bYxyBlvyndkQcUnP2vwbzFl55ke2H99mkwT0c7Zjs3ra00HduQJSVW7jl6p\n/6C9nYPwyl1LY9t67ZH8/avFYw8oOajKVe3MDjKi1biV2H2sbRYSF3YhC9BSNnX7\nUDYJJ3liUsjE+KvhO1kzkFpDjwKBgQC2DRsBgkPuvhotnHmgMOcgjxDaI/pqinfG\nzQHEFjAm0K3efxs4WLXcpGnSY+wwDsiHlYuDEqq2cXjcIkKULIhx3zZe3wrZwEhs\nxbcrU+NS4Ngdo46QqJieQGDCRnuLQjzVmHdZov8uj5llS2LS3IcgscMby8Zl3H1R\nmbInqVEnKwKBgHulAmPAKIzQ4TmDBGk0us7djrok7MQqu3zM+i2PJquIYEhAn/vW\nvbhlJFaEeEX8qF5huRbU5rZi5s7/3xU7jJkYDAWknIcI/NHJiyOkSsHzjthWiyG6\nYug3s44ctmmXg9HMWVt2DDxVTPEQyzbA9FCV6VrMdVnMxCwQo4gpTopLAoGAYqep\neeDY5Xj5gLwqIQg/SCKfdEdI/hF5pS8VhOitQWuWvVtOKfPQ4ffrLMtfhA+O1gLR\nbr9f6ayGXWznfZrAek0HDtR58dTEqsVeZMl6CEC2fSFUMcpbom6qwL0nWCkWBH4y\nN04gUWAaNY1ryW8efzY10EtWgX7CHsVWiS21P68CgYEAkx2h055c8lTEFhMGu3wI\n4a1Mvm8MJiOy1N7+3z6HBsAlLytRq036EnYyYFGP/OhZ1Xc7+O68kQvsYxIhPX+E\nBIeplgdIpT+XXSdTWgJpsPSgnNRxGD5DTD28FGBXVdOrYRdY+O9PE982rPK7L5A8\nUq3qsU5Puzmw8daWyA3bShM=\n-----END PRIVATE KEY-----\n",
-  "client_email": "job-hunter-data@job-hunter-data.iam.gserviceaccount.com",
-  "client_id": "104553497018311794359",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/job-hunter-data%40job-hunter-data.iam.gserviceaccount.com"
+  //Can't share this info but this file is needed for Google API authorization :)
 }
